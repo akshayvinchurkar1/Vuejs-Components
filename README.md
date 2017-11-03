@@ -1,6 +1,7 @@
 # vuelearn
 
-> A Vue.js project
+> A Vue.js project this project is created for learning perpose i create navbar component with the help
+of classsis helloworld component.
 
 ## Build Setup
 
@@ -17,5 +18,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
